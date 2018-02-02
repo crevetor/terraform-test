@@ -1,5 +1,5 @@
 variable "project_name" {
-  description = "Project Name"
+  description = "Project Name, test"
 }
 
 variable "ssh_private_key" {
